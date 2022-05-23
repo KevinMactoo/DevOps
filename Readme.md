@@ -43,3 +43,11 @@ brew install --cask intellij-idea
 brew install --cask intellij-idea-ce
 brew install --cask sublime-text
 brew install awscli
+
+
+
+
+#AWS Signups
+*************
+
+Did setup and AWS signups
