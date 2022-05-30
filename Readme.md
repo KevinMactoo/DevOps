@@ -51,3 +51,12 @@ brew install awscli
 *************
 
 Did setup and AWS signups
+
+
+commands
+**************
+mkdir
+whoami
+touch
+cp
+cat /etc/os-release 
